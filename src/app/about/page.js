@@ -208,7 +208,7 @@ export default function AboutPage() {
                 marginBottom: '30px',
                 opacity: '0.9'
               }}>
-                Experience the difference of working with Lahore's trusted electrical experts
+                Experience the difference of working with Lahore&apos;s trusted electrical experts
               </p>
               <div style={{ display: 'flex', gap: '20px', justifyContent: 'center', alignItems: 'center' }}>
                 <a

@@ -262,7 +262,7 @@ export default function ContactPage() {
                     marginBottom: '20px',
                     lineHeight: '1.6'
                   }}>
-                    Electrical emergencies can't wait. Our licensed electricians are 
+                    Electrical emergencies can&apos;t wait. Our licensed electricians are 
                     available 24/7 for urgent electrical repairs and safety issues.
                   </p>
                   <a 

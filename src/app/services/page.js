@@ -144,7 +144,7 @@ export default function ServicesPage() {
                   fontSize: '0.9rem',
                   marginBottom: '20px'
                 }}>
-                  Electrical emergencies don't wait. Neither do we.
+                  Electrical emergencies don&apos;t wait. Neither do we.
                 </p>
                 <a
                   href="tel:+923174636995"
