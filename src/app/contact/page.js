@@ -113,7 +113,7 @@ export default function ContactPage() {
                 <div className="bg-white p-8 rounded-xl shadow border border-slate-200">
                   <h3 className="text-lg font-bold mb-3 text-slate-800">Emergency Service</h3>
                   <p className="text-slate-400 mb-5 leading-relaxed">
-                    Electrical emergencies can't wait. Our licensed electricians are available 24/7 for urgent electrical repairs and safety issues.
+                    Electrical emergencies can&apos;t wait. Our licensed electricians are available 24/7 for urgent electrical repairs and safety issues.
                   </p>
                   <a 
                     href="tel:+923174636995"
