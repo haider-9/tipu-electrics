@@ -81,7 +81,7 @@ export default function AboutPage() {
             {/* Contact CTA */}
             <div className="text-center p-10 bg-gradient-to-tr from-emerald-500 to-emerald-600 rounded-2xl text-white">
               <h3 className="text-xl sm:text-2xl font-bold mb-3">Ready to Work Together?</h3>
-              <p className="text-base opacity-90 mb-6">Experience the difference of working with Lahore's trusted electrical experts</p>
+              <p className="text-base opacity-90 mb-6">Experience the difference of working with Lahore&apos;s trusted electrical experts</p>
               <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
                 <a
                   href="/contact"
